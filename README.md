@@ -1,4 +1,4 @@
-# TASK-1
+# TASK 1-Infosys Springboard
 Create a Simple Sales Dashboard
 
 Objective: Build a basic dashboard to analyze sales data.
